@@ -22,10 +22,11 @@
     "sass": "^1.57.1",
     "web-vitals": "^2.1.4"
   },
+  "homepage": "https://shoupingliang.github.io/react-portfolio/",
   "scripts": {
-    "start": "react-scripts start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
